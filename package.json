@@ -3,22 +3,22 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Yulia2021-dev.github.io/goit-hw-10-js-food",
+  "homepage": "https://Yulia2021-dev.github.io/goit-js-hw-10-food",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-hw-10-js-food/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yulia2021-dev/goit-hw-10-js-food.git"
+    "url": "git+https://github.com/Yulia2021-dev/goit-js-hw-10-food.git"
   },
   "keywords": [],
   "author": "Yulia Kulias",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yulia2021-dev/goit-hw-10-js-food/issues"
+    "url": "https://github.com/Yulia2021-dev/goit-js-hw-10-food/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
