@@ -13,4 +13,4 @@ const e={LIGHT:"light-theme",DARK:"dark-theme"},t=document.querySelector("body")
 },{}],"QvaY":[function(require,module,exports) {
 "use strict";require("./menu.js"),require("./theme-change.js");
 },{"./menu.js":"i0CD","./theme-change.js":"lWB6"}]},{},["QvaY"], null)
-//# sourceMappingURL=/goit-hw-10-js-food/js.5550e3df.js.map
+//# sourceMappingURL=/goit-js-hw-10-food/js.5550e3df.js.map
